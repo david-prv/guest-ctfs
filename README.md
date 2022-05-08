@@ -1,7 +1,7 @@
 # guest-ctfs
 Collection of guest-hosted CTFs I participated in
 
-## EZ-CTF 2022
+## EZ-CTF 2022 ([link](https://github.com/david-prv/guest-ctfs/tree/main/ez-ctf))
 About EZ-CTF:  
 [View Homepage](https://ez.ctf.cafe)  
 [View on CTFTime.org](https://ctftime.org/event/1655/)
