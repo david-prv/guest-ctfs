@@ -7,7 +7,7 @@ About EZ-CTF:
 [View on CTFTime.org](https://ctftime.org/event/1655/)
 
 Personal Result:  
-**129th** out of **1736 participants** ([Profile](ez.ctf.cafe/user/Ceytec) | [PDF](https://upload.david-dewes.de/ceytec_results_ezctf.pdf))  
+**129th** out of **1736 participants** ([Profile](https://ez.ctf.cafe/user/Ceytec) | [PDF](https://upload.david-dewes.de/ceytec_results_ezctf.pdf))  
 12 solves - 2135 points
 
 Team Result:  
