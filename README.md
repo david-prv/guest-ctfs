@@ -7,7 +7,8 @@ About EZ-CTF:
 [View on CTFTime.org](https://ctftime.org/event/1655/)
 
 Personal Result:  
-**129th** out of **1736 participants** ([Profile](ez.ctf.cafe/user/Ceytec) | [PDF](https://upload.david-dewes.de/ceytec_results_ezctf.pdf))
+**129th** out of **1736 participants** ([Profile](ez.ctf.cafe/user/Ceytec) | [PDF](https://upload.david-dewes.de/ceytec_results_ezctf.pdf))  
+12 solves - 2135 points
 
 Team Result:  
 **177th** out of **848 teams** ([Certificate](https://upload.david-dewes.de/kekw_ezctf.png))
@@ -18,7 +19,7 @@ About BCACTF 3.0:
 [View on CTFTime.org](https://ctftime.org/event/1602)  
 
 Personal Result:  
-*pending*
+14 solves - 1450 points
 
 Team Result:  
-*pending*
+**82th** out of **671 teams** ([Profile](https://play.bcactf.com/teams/6990601d-f2fc-40f5-bc2f-5fd4c4736038))
